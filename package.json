@@ -1,0 +1,21 @@
+{
+  "name": "doge-test-data",
+  "version": "0.1.0",
+  "description": "dogecoin network test data vectors",
+  "main": "./lib/index.js",
+  "typings": "./lib/index.d.ts",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QEDProtocol/doge-test-data.git"
+  },
+  "keywords": [
+    "dogecoin"
+  ],
+  "author": "QED",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/QEDProtocol/doge-test-data/issues"
+  },
+  "homepage": "https://github.com/QEDProtocol/doge-test-data#readme"
+}
